@@ -76,6 +76,12 @@ plt.show()
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 
+1.   2
+2.   3
+3.   2
+4.   3
+5.   2
+
 
 
 ## Result:
